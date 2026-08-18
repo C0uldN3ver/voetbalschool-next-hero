@@ -50,3 +50,16 @@
 - [x] Een repository voor de huidige NEXT-hero aanmaken.
 - [x] De productieklare broncode naar de repository pushen.
 - [x] De repositorylink controleren en aan de gebruiker doorgeven.
+
+## Vercel-weergaveherstel
+
+- [ ] Onderzoeken welke inhoud de live Vercel-URL serveert.
+- [ ] De Vercel-outputinstelling of projectstructuur corrigeren zodat de gebouwde hero wordt geserveerd.
+- [ ] De live URL opnieuw controleren na herdeployment.
+
+## Interactieve hero
+
+- [x] Oranje routepunten voorzien van betekenisvolle hover-details.
+- [x] De drie pijlerkaarten een toegankelijke 3D-tilt, lift en schaalinteractie geven.
+- [x] Een subtiele glansbeweging op de hoofdheadline toevoegen.
+- [x] De interacties op desktop en mobiel visueel controleren.
