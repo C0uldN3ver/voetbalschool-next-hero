@@ -94,3 +94,5 @@ De startvisie gebruikt voortaan de aangeleverde, officiële identiteit van **Voe
 De navigatie is uitgewerkt als een **trainingsroute**: drie genummerde ontwikkelstappen op een dunne lijn in plaats van een conventionele rij navigatielinks. Dit maakt de route van oriënteren naar aanmelden onmiddellijk duidelijker én eigen aan NEXT.
 
 De hero draagt de definitieve merkbelofte: **“Ontwikkel je spel. Verleg je grens.”**. De eerste contentlaag daaronder is direct gekoppeld aan de trainingspropositie: Techniek, Motoriek en Plezier vormen drie evenwaardige, visueel verschillende bouwstenen.
+
+De Vercel-demo wordt bewust teruggebracht tot **één enkele hero**. De pijlers worden niet langer als aparte secties gepresenteerd, maar als een compacte, semi-transparante ontwikkelrail aan de basis van het hero-beeld. Zo toont de startvisie alle noodzakelijke propositiecontext in één scherm, zonder het emotionele focuspunt — de speler in actie — te verdringen.
