@@ -43,3 +43,10 @@
 - [x] De goedgekeurde kaartpositie ongewijzigd houden.
 - [x] Kaarten en kaarttekst vergroten; titels en lopende tekst zwaarder en contrastrijker maken.
 - [ ] Desktop- en mobiele hiërarchie controleren en de verbetering als checkpoint vastleggen.
+
+## GitHub-export
+
+- [ ] De beschikbare GitHub-toegang en repository-eigenaar controleren.
+- [ ] Een repository voor de huidige NEXT-hero aanmaken.
+- [ ] De productieklare broncode naar de repository pushen.
+- [ ] De repositorylink controleren en aan de gebruiker doorgeven.
