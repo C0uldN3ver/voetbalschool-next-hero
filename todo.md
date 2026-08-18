@@ -36,3 +36,10 @@
 - [x] De kaartgrootte, tekstgrootte en contrast verhogen voor directe leesbaarheid.
 - [x] Een gevarieerde, maar zichtbaar geankerde compositie voor de drie kaarten behouden.
 - [ ] Desktop- en mobiele hiërarchie controleren en de verbetering als checkpoint vastleggen.
+
+## Hero-copy en kaartleesbaarheid
+
+- [x] De volledige hero-copy subtiel verder naar links zetten en groter maken.
+- [x] De goedgekeurde kaartpositie ongewijzigd houden.
+- [x] Kaarten en kaarttekst vergroten; titels en lopende tekst zwaarder en contrastrijker maken.
+- [ ] Desktop- en mobiele hiërarchie controleren en de verbetering als checkpoint vastleggen.
