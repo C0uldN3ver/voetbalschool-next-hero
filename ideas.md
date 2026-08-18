@@ -96,3 +96,9 @@ De navigatie is uitgewerkt als een **trainingsroute**: drie genummerde ontwikkel
 De hero draagt de definitieve merkbelofte: **“Ontwikkel je spel. Verleg je grens.”**. De eerste contentlaag daaronder is direct gekoppeld aan de trainingspropositie: Techniek, Motoriek en Plezier vormen drie evenwaardige, visueel verschillende bouwstenen.
 
 De Vercel-demo wordt bewust teruggebracht tot **één enkele hero**. De pijlers worden niet langer als aparte secties gepresenteerd, maar als een compacte, semi-transparante ontwikkelrail aan de basis van het hero-beeld. Zo toont de startvisie alle noodzakelijke propositiecontext in één scherm, zonder het emotionele focuspunt — de speler in actie — te verdringen.
+
+## Hero-hercompositie
+
+De aangeleverde nachtfoto van de echte NEXT-training is het nieuwe, onvervangbare hero-beeld. De compositie volgt de sterke hiërarchie uit de referentie: een royaal merkanker, een ruime en duidelijke navigatielaag, een dominante belofte links en een volledige trainingsscène als geloofwaardig bewijs erachter. Voor NEXT wordt dit doorvertaald met een diep marineblauwe editorial overlay, een subtiele schuine overgang en één groot oranje aanmeldmoment. De drie methodische pijlers leven als een rustige tekstmodule binnen de hero, niet als visuele kaarten aan de onderkant.
+
+De header werkt als een verbonden **trainingsroute**: genummerde routepunten op een tactische lijn verbinden de navigatiestappen. Het officiële schild en de NEXT-wordmark vormen één compact, gecropt merkanker. Een klein issue-label, zwaardere filmkorrel en een gestippelde speelroute naar de methodemodule voegen de beoogde football-magazine tactiliteit toe.

@@ -13,3 +13,11 @@
 - [x] Techniek, Motoriek en Plezier als compacte geïntegreerde hero-informatie tonen.
 - [x] Losse vervolgsecties verwijderen en de pagina beperken tot de design-direction hero.
 - [ ] Desktop- en mobiele hero controleren en een nieuwe demo-checkpoint vastleggen.
+
+## Hero-herontwerp met klantfoto
+
+- [x] De aangeleverde trainingsfoto voorbereiden als hoofdbeeld voor de hero.
+- [x] De bestaande onderrail met vier informatieblokken volledig verwijderen.
+- [x] Navigatie, logo en primaire aanmeldactie vergroten en opnieuw structureren.
+- [x] Eén ruime, professionele hero-compositie bouwen met rustige context en sterke foto-hiërarchie.
+- [ ] De herontworpen hero op desktop en mobiel controleren en als checkpoint vastleggen.
