@@ -68,10 +68,10 @@
 
 - [x] De GitHub-authenticatie opnieuw controleren of herstellen.
 - [x] Alle actuele commits en bronbestanden naar `main` pushen.
-- [ ] Bevestigen dat de interactieve hero in GitHub identiek aan de actuele projectversie staat.
+- [x] Bevestigen dat de interactieve hero in GitHub identiek aan de actuele projectversie staat.
 
 ## Definitieve GitHub-push
 
 - [x] De geopende GitHub CLI-autorisatie afronden.
 - [x] Alle actuele projectcommits naar de private `main`-branch pushen.
-- [ ] De repository-inhoud en de gepushte commit rechtstreeks op GitHub verifiëren.
+- [x] De repository-inhoud en de gepushte commit rechtstreeks op GitHub verifiëren.
