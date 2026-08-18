@@ -43,7 +43,7 @@ function TiltCard({ className, title, children }: TiltCardProps) {
 function NextBrand() {
   return (
     <a className="next-brand" href="#top" aria-label="Voetbalschool NEXT home">
-      <span className="next-logo-full"><img src="/manus-storage/voetbalschool-next-logo_cd29fb32.png" alt="Officieel logo Voetbalschool NEXT" /></span>
+      <span className="next-logo-full"><img src="/images/voetbalschool-next-logo_cd29fb32.png" alt="Officieel logo Voetbalschool NEXT" /></span>
       <span className="next-name"><small>VOETBALSCHOOL</small><strong>NEXT</strong></span>
     </a>
   );
