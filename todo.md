@@ -21,3 +21,11 @@
 - [x] Navigatie, logo en primaire aanmeldactie vergroten en opnieuw structureren.
 - [x] Eén ruime, professionele hero-compositie bouwen met rustige context en sterke foto-hiërarchie.
 - [ ] De herontworpen hero op desktop en mobiel controleren en als checkpoint vastleggen.
+
+## Hero-verfijning: navigatie en inhoudskaarten
+
+- [x] Navigatienummers verwijderen; menu-items groter, vetter en verder uit elkaar zetten.
+- [x] Het volledige aangeleverde logo zichtbaar en groter naast de huidige merktekst tonen.
+- [x] De methode-lijst vervangen door drie gevarieerde kaarten aan de rechterzijde.
+- [x] De volledige aangeleverde teksten voor Techniek, Motoriek en Plezier in de kaarten verwerken, met oranje titels.
+- [ ] De verfijnde desktop- en mobiele hero controleren en als checkpoint vastleggen.
