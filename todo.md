@@ -29,3 +29,10 @@
 - [x] De methode-lijst vervangen door drie gevarieerde kaarten aan de rechterzijde.
 - [x] De volledige aangeleverde teksten voor Techniek, Motoriek en Plezier in de kaarten verwerken, met oranje titels.
 - [ ] De verfijnde desktop- en mobiele hero controleren en als checkpoint vastleggen.
+
+## Kaartpositie en leesbaarheid
+
+- [x] De kaarten verplaatsen naar de ruimte tussen de headline en de primaire actie.
+- [x] De kaartgrootte, tekstgrootte en contrast verhogen voor directe leesbaarheid.
+- [x] Een gevarieerde, maar zichtbaar geankerde compositie voor de drie kaarten behouden.
+- [ ] Desktop- en mobiele hiërarchie controleren en de verbetering als checkpoint vastleggen.
