@@ -86,3 +86,11 @@ Een compacte **F-vormige pijl** die ontstaat uit twee schuine veldstroken, als z
 ## Signature Brand Color
 
 **Pion Oranje — `#F05A28`**. Een warm, uitgesproken trainingsaccent dat zowel op donker als licht materiaal direct herkenbaar blijft.
+
+## Style Decisions
+
+De startvisie gebruikt voortaan de aangeleverde, officiële identiteit van **Voetbalschool NEXT**. Het schild wordt als compact routepunt herhaald in navigatie, hero en footer; de merknaam is niet langer een tijdelijke werknaam.
+
+De navigatie is uitgewerkt als een **trainingsroute**: drie genummerde ontwikkelstappen op een dunne lijn in plaats van een conventionele rij navigatielinks. Dit maakt de route van oriënteren naar aanmelden onmiddellijk duidelijker én eigen aan NEXT.
+
+De hero draagt de definitieve merkbelofte: **“Ontwikkel je spel. Verleg je grens.”**. De eerste contentlaag daaronder is direct gekoppeld aan de trainingspropositie: Techniek, Motoriek en Plezier vormen drie evenwaardige, visueel verschillende bouwstenen.
