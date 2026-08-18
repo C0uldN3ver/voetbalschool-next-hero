@@ -46,7 +46,7 @@
 
 ## GitHub-export
 
-- [ ] De beschikbare GitHub-toegang en repository-eigenaar controleren.
-- [ ] Een repository voor de huidige NEXT-hero aanmaken.
-- [ ] De productieklare broncode naar de repository pushen.
-- [ ] De repositorylink controleren en aan de gebruiker doorgeven.
+- [x] De beschikbare GitHub-toegang en repository-eigenaar controleren.
+- [x] Een repository voor de huidige NEXT-hero aanmaken.
+- [x] De productieklare broncode naar de repository pushen.
+- [x] De repositorylink controleren en aan de gebruiker doorgeven.
